@@ -17,5 +17,9 @@
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0",
     "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "chrono-node": "^2.4.1",
+    "chronojs": "^0.3.2"
   }
 }
