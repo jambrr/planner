@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Planner",
+  "name": "SnapEvent",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "A Chrome extension that creates google calendar events by selecting a date",
   "icons": {
     "16": "icons/icon_16.png",
     "32": "icons/icon_32.png",
